@@ -3,7 +3,7 @@ galaxy_info:
   author: imax
   description: >
     Adds osx_pmset module, which handles setting power management options on
-    Mac OS C.
+    Mac OS X.
   license: MIT
   min_ansible_version: 2.9
 
