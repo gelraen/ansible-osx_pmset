@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: osx_pmset
+  author: imax
+  description: >
+    Adds osx_pmset module, which handles setting power management options on
+    Mac OS C.
+  license: MIT
+  min_ansible_version: 2.9
+
+  platforms:
+  - name: MacOSX
+    versions:
+    - all
+
+  galaxy_tags:
+  - pmset
+
+dependencies: []  
